@@ -19,15 +19,17 @@ Inserire nel terminale le seguenti istruzioni:
 * [-h] per aiuto
 * [-e] per terminare FileManager.py
 * [crea <nome_file> <tipo_file> <percorso>] per creare un file
-                   "\tleggi <nome_file> <tipo_file> <percorso>\n"
-                   "\tcopia <nome_file> <tipo_file> <percorso>\n"
-                   "\telimina <nome_file> <tipo_file> <percorso>\n"
-                   "\trinonima <nome_file> <tipo_file> <percorso> <nome_nuovo>\n"
-                   "\tconverti <nome_file> <tipo_file> <percorso> <tipo_nuovo>\n"
-                   "\tsposta <nome_file> <tipo_file> <percorso> <percorso_nuovo>\n"
-                   "\tconta_char <nome_file> <tipo_file> <percorso>\n"
+* [elimina <nome_file> <tipo_file> <percorso>] per elimare un file
+* [copia <nome_file> <tipo_file> <percorso>] per copiare un file
+* [rinonima <nome_file> <tipo_file> <percorso> <nome_nuovo>] per rinominare un file
+* [sposta <nome_file> <tipo_file> <percorso> <percorso_nuovo>] per spostare un file
+* ["converti <nome_file> <tipo_file> <percorso> <tipo_nuovo>] per convertire un file
+* [leggi <nome_file> <tipo_file> <percorso>] per stampare il file sul terminale
+* [apri_img <nome_file> <percorso>] per stampare l'immagine sul terminale (solo per .png)
+* [conta_char <nome_file> <tipo_file> <percorso>] per contare il numero di caratteri in un file (solo per .txt)
+                   
                    "\tapri <nome_file> <tipo_file> <percorso>\n"
-                   "\tapri_img <nome_file> <percorso>\n")
+                  
 
 ## Come contribuire
 * Linee guida per chi volesse contribuire al progetto.
