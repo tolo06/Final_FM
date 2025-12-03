@@ -1,7 +1,7 @@
 # File Manager
 
 ## Obbiettivo del progetto e descrizione
-Ispirandoci all'idea di esempio "Rinominatore Batch" a noi proposta, abbiamo voluto estendere il progetto a un file manager che permette all'utente di 
+File Manager che permette all'utente di 
 * creare un file della tipologia richiesta al percorso richiesto con un nome richiesto
 * eliminare uno specifico file
 * copiare uno specifico file
@@ -14,7 +14,7 @@ Ispirandoci all'idea di esempio "Rinominatore Batch" a noi proposta, abbiamo vol
 * aprire il file
 
 ## Sintesi del setup
-Avere installate le librerie
+Avere installate le librerie os, matplotlib, numpy, platform, PIL
 
 ## Come usare il progetto
 Inserire nel terminale le seguenti istruzioni:
@@ -32,7 +32,6 @@ Inserire nel terminale le seguenti istruzioni:
 * [apri <nome_file> <tipo_file> <percorso>] per far aprire dal sistema operativo il file
 
 
-## Come contribuire
-Semmai voleste contribuire al progetto, segnalare bug o altro i nostri contatti sono
-* (+39) 351 770 6422
-* (+39) 375 558 0841
+## Idee di miglioramento
+* implementare l'apertura in terminale di altri tipi di file
+* poter cercare e trovare il file in questione senza doverne specificare il tipo o il percorso
