@@ -1,6 +1,6 @@
 # File Manager
 
-##Obbiettivo del progetto e descrizione
+## Obbiettivo del progetto e descrizione
 Ispirandoci all'idea di esempio "Rinominatore Batch" a noi proposta, abbiamo voluto estendere il progetto a un file manager che permette all'utente di 
 * creare un file della tipologia richiesta al percorso richiesto con un nome richiesto
 * eliminare uno specifico file
