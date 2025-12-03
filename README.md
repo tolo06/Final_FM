@@ -27,14 +27,14 @@ Inserire nel terminale le seguenti istruzioni:
 * [leggi <nome_file> <tipo_file> <percorso>] per stampare il file sul terminale
 * [apri_img <nome_file> <percorso>] per stampare l'immagine sul terminale (solo per .png)
 * [conta_char <nome_file> <tipo_file> <percorso>] per contare il numero di caratteri in un file (solo per .txt)
-                   
-                   "\tapri <nome_file> <tipo_file> <percorso>\n"
-                  
+* [apri <nome_file> <tipo_file> <percorso>] per far aprire dal sistema operativo il file
+
 
 ## Come contribuire
-* Linee guida per chi volesse contribuire al progetto.
-* Informazioni su come segnalare bug o suggerire miglioramenti.
-* Link ai canali di comunicazione (es. issue tracker, forum).
+Semmai voleste contribuire al progetto, segnalare bug o altro i nostri contatti sono
+  *(+39) 351 770 6422
+  *(+39) 375 558 0841
+
 
 ## Licenza
 * Informazioni sulla licenza del progetto.
