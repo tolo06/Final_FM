@@ -13,14 +13,21 @@ Per il nostro progetto abbiamo scritto un codice che permette all'utente di
 * contare il numero di caratteri
 * aprire il file
 
-## Requisiti e installazione
-* Elenco dei requisiti (es. versione del linguaggio, dipendenze).
-* Istruzioni passo passo per l'installazione e la configurazione.
-* Esempio: `git clone github.com` [4]
 
 ## Come usare il progetto
-* Istruzioni su come eseguire il progetto.
-* Esempi d'uso per aiutare l'utente a iniziare.
+Inserire nel terminale le seguenti istruzioni:
+* [-h] per aiuto
+* [-e] per terminare FileManager.py
+* [crea <nome_file> <tipo_file> <percorso>] per creare un file
+                   "\tleggi <nome_file> <tipo_file> <percorso>\n"
+                   "\tcopia <nome_file> <tipo_file> <percorso>\n"
+                   "\telimina <nome_file> <tipo_file> <percorso>\n"
+                   "\trinonima <nome_file> <tipo_file> <percorso> <nome_nuovo>\n"
+                   "\tconverti <nome_file> <tipo_file> <percorso> <tipo_nuovo>\n"
+                   "\tsposta <nome_file> <tipo_file> <percorso> <percorso_nuovo>\n"
+                   "\tconta_char <nome_file> <tipo_file> <percorso>\n"
+                   "\tapri <nome_file> <tipo_file> <percorso>\n"
+                   "\tapri_img <nome_file> <percorso>\n")
 
 ## Come contribuire
 * Linee guida per chi volesse contribuire al progetto.
