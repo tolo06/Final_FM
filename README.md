@@ -32,9 +32,5 @@ Inserire nel terminale le seguenti istruzioni:
 
 ## Come contribuire
 Semmai voleste contribuire al progetto, segnalare bug o altro i nostri contatti sono
-  *(+39) 351 770 6422
-  *(+39) 375 558 0841
-
-
-## Licenza
-* Informazioni sulla licenza del progetto.
+*(+39) 351 770 6422
+*(+39) 375 558 0841
