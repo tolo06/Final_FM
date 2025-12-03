@@ -121,16 +121,15 @@ def conta_caratteri(nome_file="prova", tipo=".txt", percorso=""):
     else:
         return True
 
-def apri_immagine(nome_file="prova", percorso=""):
+def apri_immagine(nome_file="prova", tipo=".png", percorso=""):
     try:
-        tipo = nome_file[-4:]
         if tipo == ".png":
             img = np.asarray(Image.open(percorso + nome_file))
             plt.imshow(img)
             plt.axis('off')
             plt.show()
         else:
-            print("Tipo di file inalido (non '.png')\n")
+            print("Tipo di file invalido (non '.png')\n")
             return False
     except Exception as err:
         print(f"Errore durante l'apertura dell'immagine: {err}")
