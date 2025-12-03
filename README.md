@@ -1,7 +1,7 @@
 # File Manager
 
 ## Obbiettivo del progetto e descrizione
-File Manager che permette all'utente di 
+File Manager permette all'utente di 
 * creare un file della tipologia richiesta al percorso richiesto con un nome richiesto
 * eliminare uno specifico file
 * copiare uno specifico file
@@ -33,5 +33,5 @@ Inserire nel terminale le seguenti istruzioni:
 
 
 ## Idee di miglioramento
-* implementare l'apertura in terminale di altri tipi di file
+* aggiungere l'archiviazione nel cloud
 * poter cercare e trovare il file in questione senza doverne specificare il tipo o il percorso
