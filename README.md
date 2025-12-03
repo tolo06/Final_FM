@@ -1,7 +1,7 @@
 # File Manager
 
-## Descrizione del progetto
-Per il nostro progetto abbiamo scritto un codice che permette all'utente di 
+##Obbiettivo del progetto e descrizione
+Ispirandoci all'idea di esempio "Rinominatore Batch" a noi proposta, abbiamo voluto estendere il progetto a un file manager che permette all'utente di 
 * creare un file della tipologia richiesta al percorso richiesto con un nome richiesto
 * eliminare uno specifico file
 * copiare uno specifico file
@@ -13,6 +13,8 @@ Per il nostro progetto abbiamo scritto un codice che permette all'utente di
 * contare il numero di caratteri
 * aprire il file
 
+## Sintesi del setup
+Avere installate le librerie
 
 ## Come usare il progetto
 Inserire nel terminale le seguenti istruzioni:
