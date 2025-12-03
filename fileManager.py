@@ -124,7 +124,7 @@ def conta_caratteri(nome_file="prova", tipo=".txt", percorso=""):
 def apri_immagine(nome_file="prova", tipo=".png", percorso=""):
     try:
         if tipo == ".png":
-            img = np.asarray(Image.open(percorso + nome_file))
+            img = np.asarray(Image.open(percorso + nome_file + tipo))
             plt.imshow(img)
             plt.axis('off')
             plt.show()
